@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "3.10.5"
   },
   "pages": {
@@ -224,40 +224,30 @@
           "price4": "",
           "period4": "13/mo.",
           "description4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Donate! $<b><i>13</i></b></span><br><li class=\"list-group-item\"><b>As many times as you want!</b></li><li class=\"list-group-item\"><b>Notify Me After Order!</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Donate! $<b><i>13</i></b></span><br><li class=\"list-group-item\"><b>As many times as you want!</b></li><li class=\"list-group-item\"><b>Notify Me After Order! So i can Thank you!</b></li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=rc18535%40gmail%2ecom&amp;lc=US&amp;item_name=1%2c000%2c000%20In%20Game%20Cash&amp;amount=13%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;no_note=0&amp;tax_rate=0%2e000&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a>"
         },
         {
-          "_inherit": "pricing-table1",
           "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
             },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            },
-            ".mbr-plan-subtitle": {
-              "color": "#c1c1c1"
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-5",
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-6",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#303030",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -274,44 +264,44 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "",
-          "subtitle": "More!",
+          "title": "More!",
+          "subtitle": "",
           "label1": "HOT!",
-          "title1": "Founder Rank",
-          "subtitle1": "Kinda Like Superadmin!",
+          "title1": "Comming Soon!",
+          "subtitle1": "Comming Soon!",
           "currency1": "$",
-          "price1": "20",
+          "price1": "0",
           "period1": "/mo.",
-          "description1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Founder Rank</li><li class=\"list-group-item\">Lifetime</li><li class=\"list-group-item\">Contact Owner</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=Y6TNKSRRMB39C&amp;lc=US&amp;item_name=Founder%20Rank&amp;amount=20%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;tax_rate=0%2e000&amp;shipping=0%2e00&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a>",
-          "label2": "<b>Best Selling!</b>",
-          "title2": "Comming Soon",
-          "subtitle2": "Comming Soon!",
+          "description1": "Comming Soon!",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Comming Soon!</span><br><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>",
+          "label2": "HOT!",
+          "title2": "Founder Rank!",
+          "subtitle2": "Kinda Like Superadmin&nbsp;",
           "currency2": "$",
-          "price2": "0",
+          "price2": "20",
           "period2": "/mo.",
-          "description2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Comming Soon!</span><br><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Contact Owner</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>",
+          "description2": "Comming Soon!",
+          "list2": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Founder Rank</span><br><li class=\"list-group-item\">Lifetime</li><span style=\"font-size: 14px; line-height: 50px;\">Contact Owner</span></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=Y6TNKSRRMB39C&amp;lc=US&amp;item_name=Founder%20Rank&amp;amount=20%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;tax_rate=0%2e000&amp;shipping=0%2e00&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a>",
           "label3": "HOT!",
-          "title3": "PREMIUM",
+          "title3": "Comming Soon!",
           "subtitle3": "Comming Soon!",
           "currency3": "$",
           "price3": "0",
           "period3": "/mo.",
-          "description3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Contact Owner</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>",
+          "description3": "Comming Soon!",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>",
           "label4": "HOT!",
-          "title4": "ULTIMATE",
+          "title4": "Comming Soon!",
           "subtitle4": "Comming Soon!",
           "currency4": "$",
           "price4": "0",
           "period4": "/mo.",
-          "description4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Contact Owner</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>"
+          "description4": "Comming Soon!",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>"
         },
         {
           "_name": "footer1",
