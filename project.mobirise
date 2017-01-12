@@ -329,7 +329,7 @@
           "form": {
             "action": "rc18535@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! A message has Been sent to the owner!"
             },
             "fields": {
               "name": {
