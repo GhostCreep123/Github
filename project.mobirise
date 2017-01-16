@@ -81,7 +81,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             }
           },
           "_tags": [
@@ -105,7 +105,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/five-obstacles-148x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ejwfwysngyaqanbdgia7-zwxp-gkbalirahcy5omu-e9r3qps23qeolza9jljg3sekobisedw8txcr1mhvufibliudmtewyrtexx8escnzydmbxjlmxopdkk7bi4ls94xvrswf3-asmigw-227x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -119,7 +119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ComicalCommunity</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://comicalcommunitydarkrp.myfreesites.net/\" target=\"_blank\">Server Home Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://comicalcommunity.boards.net/\" target=\"_blank\">Server Fourms Page</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://comicalcommunity.myfreesites.net/\" target=\"_blank\">Server Home Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://comicalcommunity.boards.net/\" target=\"_blank\">Server Fourms Page</a></li>"
         },
         {
           "_name": "header1",
@@ -129,7 +129,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/8mixrwp-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -195,7 +195,7 @@
           "subtitle1": "Access To V.I.P Jobs V.I.P Printers And Commands",
           "currency1": "$",
           "price1": "5",
-          "period1": "/mo.",
+          "period1": "/LF.",
           "description1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\"><b>V.I.P</b></span><br><span style=\"font-size: 14px; line-height: 50px;\"><b>Lifetime</b></span><br><li class=\"list-group-item\"><b>Notify Owner!</b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=rc18535%40gmail%2ecom&amp;lc=US&amp;item_name=V%2eI%2eP&amp;amount=5%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;no_note=0&amp;tax_rate=0%2e000&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a> ",
@@ -204,7 +204,7 @@
           "subtitle2": "Access To V.I.P+ Jobs V.I.P+ Printers And Commands",
           "currency2": "$",
           "price2": "10",
-          "period2": "/mo.",
+          "period2": "/LF.",
           "description2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>V.I.P+&nbsp;</b></li><li class=\"list-group-item\"><b>Lifetime</b></li><li class=\"list-group-item\"><b>Notify Owner!</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=rc18535%40gmail%2ecom&amp;lc=US&amp;item_name=V%2eI%2eP%2b&amp;amount=10%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;no_note=0&amp;tax_rate=0%2e000&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a>",
@@ -213,7 +213,7 @@
           "subtitle3": "You Can Have your Own Class Just for you",
           "currency3": "$",
           "price3": "8",
-          "period3": "/mo.",
+          "period3": "/LF.",
           "description3": "",
           "list3": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\"><b>Custom Rank</b></span><br><li class=\"list-group-item\"><b>One Custom Class</b></li><li class=\"list-group-item\"><b>Notify Owner!</b></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=rc18535%40gmail%2ecom&amp;lc=US&amp;item_name=100%2c000%20In%20Game%20Cash&amp;amount=8%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;no_note=0&amp;tax_rate=0%2e000&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a>",
@@ -222,7 +222,7 @@
           "subtitle4": "Donate 13 Dollors Just for fun! To Help The Server Get Better",
           "currency4": "$",
           "price4": "",
-          "period4": "13/mo.",
+          "period4": "13/LF.",
           "description4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\"><b>Donate! $<i>13</i></b></span><br><li class=\"list-group-item\"><b>As many times as you want!</b></li><li class=\"list-group-item\"><b>Thanks if you donated!</b></li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=rc18535%40gmail%2ecom&amp;lc=US&amp;item_name=1%2c000%2c000%20In%20Game%20Cash&amp;amount=13%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;no_note=0&amp;tax_rate=0%2e000&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a>"
@@ -271,7 +271,7 @@
           "subtitle1": "Comming Soon!",
           "currency1": "$",
           "price1": "0",
-          "period1": "/mo.",
+          "period1": "/LF.",
           "description1": "Comming Soon!",
           "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Comming Soon!</span><br><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>",
@@ -280,7 +280,7 @@
           "subtitle2": "Kinda Like Superadmin&nbsp;",
           "currency2": "$",
           "price2": "20",
-          "period2": "/mo.",
+          "period2": "/LF.",
           "description2": "Comming Soon!",
           "list2": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Founder Rank</span><br><li class=\"list-group-item\">Lifetime</li><li class=\"list-group-item\">Contact Owner</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=Y6TNKSRRMB39C&amp;lc=US&amp;item_name=Founder%20Rank&amp;amount=20%2e00&amp;currency_code=USD&amp;button_subtype=services&amp;tax_rate=0%2e000&amp;shipping=0%2e00&amp;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Checkout</a>",
@@ -289,7 +289,7 @@
           "subtitle3": "Comming Soon!",
           "currency3": "$",
           "price3": "0",
-          "period3": "/mo.",
+          "period3": "/LF.",
           "description3": "Comming Soon!",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>",
@@ -298,7 +298,7 @@
           "subtitle4": "Comming Soon!",
           "currency4": "$",
           "price4": "0",
-          "period4": "/mo.",
+          "period4": "/LF.",
           "description4": "Comming Soon!",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li><li class=\"list-group-item\">Comming Soon!</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Checkout</a>"
@@ -308,6 +308,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-7",
           "_params": {
             "labelsColor": "#232323",
@@ -353,12 +358,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         },
         {
           "_name": "footer1",
